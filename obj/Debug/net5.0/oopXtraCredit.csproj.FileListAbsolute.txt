@@ -1,0 +1,16 @@
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\oopXtraCredit.exe
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\oopXtraCredit.deps.json
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\oopXtraCredit.runtimeconfig.json
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\oopXtraCredit.runtimeconfig.dev.json
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\oopXtraCredit.dll
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\ref\oopXtraCredit.dll
+C:\Users\thoma\MIS\Repos\oopXtraCredit\bin\Debug\net5.0\oopXtraCredit.pdb
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.csproj.AssemblyReference.cache
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.AssemblyInfoInputs.cache
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.AssemblyInfo.cs
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.dll
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\ref\oopXtraCredit.dll
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.pdb
+C:\Users\thoma\MIS\Repos\oopXtraCredit\obj\Debug\net5.0\oopXtraCredit.genruntimeconfig.cache
